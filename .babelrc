@@ -1,0 +1,4 @@
+{
+  "presets": ["es2017", "React"],
+  "plugins": ["babel-plugin-transform-es2015-modules-commonjs"]
+}
